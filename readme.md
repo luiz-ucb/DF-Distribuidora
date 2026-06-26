@@ -1,8 +1,8 @@
 # DF Distribuidora — Site Institucional
 
 ## Integrantes da dupla
-- A preencher
-- A preencher
+- Cainã Breno Pereira Alves
+- Luiz Felipe Da Silva Peres
 
 ---
 
@@ -101,5 +101,18 @@ O Bootstrap foi usado apenas onde simplificava componentes complexos. Todo o est
 
 ## Contribuição dos integrantes
 
-- Integrante 1: *(a preencher)*
-- Integrante 2: *(a preencher)*
+- Integrante 1: Cainã Breno Pereira Alves
+
+ Desenvolvimento da estrutura HTML e estilização CSS das seções Hero (Topo), Sobre nós e Serviços.
+
+ Configuração e personalização do Grid do Bootstrap e dos cards de serviços.
+
+ Criação das regras de acessibilidade de teclado e testes de responsividade em telas menores.
+
+- Integrante 2: Luiz Felipe Da Silva Peres
+
+Desenvolvimento da estrutura HTML e estilização CSS das seções FAQ (Dúvidas) e Contato / Rodapé.
+
+Implementação do componente Accordion do Bootstrap e estilização customizada dos campos do formulário.
+
+Programação em JavaScript para validação dos campos (Nome, E-mail, Mensagem), exibição de alertas de erro/sucesso e efeito de link ativo no menu.
