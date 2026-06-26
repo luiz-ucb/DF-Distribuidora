@@ -94,8 +94,8 @@ O Bootstrap foi usado apenas onde simplificava componentes complexos. Todo o est
 
 ## Links
 
-- Link do repositório: *(preencher após publicar)*
-- Link do site publicado: *(preencher após publicar no GitHub Pages)*
+- Link do repositório: (https://github.com/luiz-ucb/DF-Distribuidora)
+- Link do site publicado:(https://luiz-ucb.github.io/DF-Distribuidora/)
 
 ---
 
